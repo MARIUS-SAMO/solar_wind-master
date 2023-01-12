@@ -7,7 +7,7 @@ from sklearn.linear_model import LogisticRegression
 def compute_rolling_std(X_df, feature, time_window, center=False):
     """
     For a given dataframe, compute the standard deviation over
-    a defined period of time (time_window) of a defined feature
+    a-b defined period of time (time_window) of a defined feature
 
     Parameters
     ----------
