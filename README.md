@@ -1,4 +1,4 @@
-# RAMP starting kit on solar wind classification
+# RAMP starting kit on solar wind classification (Marius)
 
 
 _Authors: Gautier Nguyen, Joris van den Bossche, Nicolas Aunai & Balazs Kegl_
